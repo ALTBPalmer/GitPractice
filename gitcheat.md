@@ -15,3 +15,5 @@ git add
 git commit -m "[message]"
 
 save this version and see how versions track locally and in remote repo.
+
+did you know? sign in once, then can leave off "-u origin master" business
