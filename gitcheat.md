@@ -14,8 +14,4 @@ git status
 git add
 git commit -m "[message]"
 
-OK this line is just to show change
-
-Nothing seemed to be committed or pushed yet - try third commit?
-
-*nothing to commit*
+save this version and see how versions track locally and in remote repo.
